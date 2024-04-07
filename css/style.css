@@ -1,0 +1,44 @@
+/* font-family: "Poppins", sans-serif; */
+
+/* font-family: "Nerko One", cursive; */
+
+/* header  */
+
+.top {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    display: inline-block;
+}
+
+.logolink {
+    vertical-align: middle;
+    width: 46px;
+    height: 46px;
+}
+
+.headernav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 692px;
+}
+
+.headerli {
+    display: inline-block;
+}
+
+.middleli{
+    margin-inline: 80px;
+}
+
+.headerfont {
+    font-family: "Nerko One", cursive;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.5%;
+    color: #FFFFFF;
+}
+
+
