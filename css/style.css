@@ -123,3 +123,42 @@ span {
     text-align: justify;
     color: #337C81;
 }
+
+/* footer  */
+.lastthing {
+    width: 1440px;
+    padding: 88px 130px;
+    background-color: #2A9D8F;
+}
+
+.footerlogo {
+    vertical-align: top;
+}
+
+.footernav {
+    width: 148px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 930px;
+}
+
+.footertitle {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+
+.navtext {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.service {
+    margin-block: 8px;
+}
