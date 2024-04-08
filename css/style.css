@@ -40,3 +40,59 @@
     letter-spacing: 0.5%;
     color: #FFFFFF;
 }
+
+/* section  */
+
+.info{
+    background-color: #C2F3EE;
+    width: 1440px;
+    padding: 80px 130px;
+    
+}
+
+.sectionpic{
+    vertical-align: top;
+}
+
+.sectarticle{
+    width: 460px;
+    display: inline-block;
+    margin-left: 116px;
+    vertical-align: top;
+}
+
+.title{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0.5%;
+    color: #272727;
+    margin-bottom: 27px;
+}
+
+.text{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.5%;
+    color: #272727;
+    text-align: left;
+}
+
+button{
+    width: 113px;
+    height: 46px;
+    margin-top: 45px;
+    background-color: #2A9D8F;
+    border: none;
+}
+
+span{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
