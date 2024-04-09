@@ -9,7 +9,6 @@
     margin: 0 auto;
     background-color: #2A9D8F;
     padding: 38px 130px;
-    display: inline-block;
 }
 
 .logolink {
@@ -41,12 +40,20 @@
     color: #FFFFFF;
 }
 
+/* cover  */
+
+.coverpic{
+    margin-inline: auto;
+    display: block;
+}
+
 /* section  */
 
 .info {
     background-color: #C2F3EE;
     width: 1440px;
     padding: 80px 130px;
+    margin-inline: auto;
 
 }
 
@@ -88,19 +95,17 @@ button {
     margin-top: 45px;
     background-color: #2A9D8F;
     border: none;
-}
-
-span {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
 }
 
+
 /* article  */
 .tentang {
     width: 780px;
-    margin: 180px 330px;
+    margin: 180px auto;
 }
 
 .title2 {
@@ -129,6 +134,7 @@ span {
     width: 1440px;
     padding: 88px 130px;
     background-color: #2A9D8F;
+    margin-inline: auto;
 }
 
 .footerlogo {
@@ -136,7 +142,6 @@ span {
 }
 
 .footernav {
-    width: 148px;
     display: inline-block;
     vertical-align: top;
     margin-left: 930px;
